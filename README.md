@@ -6,8 +6,9 @@
 # 수업대상
   중학교 1학년
 # 수업 구성
-  1. world cloud를 통한 preview
-  2. 주요 words 20개 공부, 뜻-스펠링 문제를 통한 외우기
-  3. Video를 통한 Grammar
-  4. 영작 게임 - 문장 배열
-  5. 정리 
+  1. world cloud를 통한 preview                            3 min
+  2. 주요 words 20개 공부, 뜻-스펠링 문제를 통한 외우기       15 min
+  3. Video를 통한 Grammar                                  15 min
+  4. 영작 게임 - 문장 배열                                  15 min
+  5. 정리                                                  2 min
+ 
