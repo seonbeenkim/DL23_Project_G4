@@ -1,6 +1,6 @@
-# DL23_Project_G4
+# :love_letter: DL23_Project_G4 :love_letter:
 
-# 수업목표
+# Learning Objective
   명사가 셀 수 있는지 없는지 구분할 수 있어요
   불규칙으로 변하는 복수형 명사를 알아보아요
 # 수업대상
