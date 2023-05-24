@@ -1,14 +1,12 @@
 # :love_letter: DL23_Project_G4 :love_letter:
 
 # Learning Objective
-  명사가 셀 수 있는지 없는지 구분할 수 있어요
-  불규칙으로 변하는 복수형 명사를 알아보아요
-# 수업대상
-  중학교 1학년
-# 수업 구성
-  1. world cloud를 통한 preview                            3 min
-  2. 주요 words 20개 공부, 뜻-스펠링 문제를 통한 외우기       15 min
-  3. Video를 통한 Grammar                                  15 min
-  4. 영작 게임 - 문장 배열                                  15 min
-  5. 정리                                                  2 min
- 
+  We can buy fruits at a store!
+# Learner
+  Middle school 1st grade students
+# Lesson Structure
+  :one: Using a video, we can provide a preview of the content to be learned during class - play in real          3 min
+  :two: 20 words used at a store - Flash Cards(code)                                                              15 min
+  :three: Learning grammar through video - Steve AI                                                                 10 min
+  :four: Learning sentences which are used at a store to buy something - Group Activity(google form): Ordering words together                                                                                                                  15 min
+  :five: Feed back - checking all group's answers and correct them                                                 7 min
