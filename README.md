@@ -1,4 +1,4 @@
-# :love_letter: DL23_Project_G4 :love_letter:
+# :heart: DL23_Project_G4 :heart:
 
 # Learning Objective
   We can buy fruits at a store!
