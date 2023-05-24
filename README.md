@@ -2,9 +2,9 @@
 
 # :book: Learning Objective :book:
   We can buy fruits at a store!
-# Learner
+# :pencil: Learner :pencil:
   Middle school 1st grade students
-# Lesson Structure
+# :sunglasses: Lesson Structure :sunglasses:
 :one: Using a video, we can provide a preview of the content to be learned during class - play in real
 :two: 20 words used at a store - Flash Cards(code)
 :three: Learning grammar through video - Steve AI
