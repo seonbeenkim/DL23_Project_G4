@@ -6,7 +6,11 @@
   Middle school 1st grade students
 # :sunglasses: Lesson Structure :sunglasses:
 :one: Using a video, we can provide a preview of the content to be learned during class - play in real
+
 :two: 20 words used at a store - Flash Cards(code)
+
 :three: Learning grammar through video - Steve AI
+
 :four: Learning sentences which are used at a store to buy something - Group Activity(google form): Ordering words together
+
 :five: Feed back - checking all group's answers and correct them  
