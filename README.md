@@ -1,6 +1,6 @@
 # :heart: DL23_Project_G4 :heart:
 
-# Learning Objective
+# :book: Learning Objective :book:
   We can buy fruits at a store!
 # Learner
   Middle school 1st grade students
