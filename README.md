@@ -1,6 +1,7 @@
 # :heart: DL23_Project_G4 :heart:
 
-[Goto G4 Lesson](https://github.com/okohkim/DL23_Project_G4/blob/main/G4Teaching.ipynb))
+[Goto G4 Lesson](https://github.com/okohkim/DL23_Project_G4/blob/main/G4Teaching.ipynb)
+
 # :book: Learning Objective :book:
   We can buy fruits at a store!
 # :pencil: Learner :pencil:
