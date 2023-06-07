@@ -3,7 +3,7 @@
 [Goto G4 Lesson](https://github.com/okohkim/DL23_Project_G4/blob/main/G4Teaching.ipynb)   #Click the link then you can start the lesson
 
 # Learning Objective
-  We'll be able to learn conversational phrases for buying fruit at a store.
+  We'll be able to learn conversational phrases for buying fruits at a store.
 # Target Learner
   Middle school 1st grade students
 # Lesson Structure
