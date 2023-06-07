@@ -1,6 +1,6 @@
 # :book: DL23_Project_G4 :book:
 
-[Goto G4 Lesson](https://github.com/okohkim/DL23_Project_G4/blob/main/G4Teaching.ipynb) #Click the link then you can start the lesson
+[Goto G4 Lesson](https://github.com/okohkim/DL23_Project_G4/blob/main/G4Teaching.ipynb)   #Click the link then you can start the lesson
 
 # Learning Objective
   We'll be able to learn conversational phrases for buying fruit at a store.
