@@ -7,13 +7,13 @@
 # Target Learner
   Middle school 1st grade students
 # Lesson Structure
-:one: Using a video, we will provide a preview of the content to be learned during class     10min
+:one: Using a video, we will provide a preview of the content to be learned during class     /10min
 1. 
 2. 
 3. 
 
-:two: We will learn 20 words used at a store through Flash Cards(code)                            15 min
+:two: We will learn 20 words used at a store through Flash Cards(code)                            /15 min
 
-:three: We will learn some sentences which are used at a store to buy something. After that, the students provide the sentence they would like to say, and they use Text-to-Speech (TTS) to generate the audio for them to record and submit on the Google Form. 15 min
+:three: We will learn some sentences which are used at a store to buy something. After that, the students provide the sentence they would like to say, and they use Text-to-Speech (TTS) to generate the audio for them to record and submit on the Google Form. /15 min
 
-:four: We will check all group's answers and give feed backs to them                                                 10 min
+:four: We will check all group's answers and give feed backs to them                                                 /10 min
