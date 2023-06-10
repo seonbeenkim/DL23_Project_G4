@@ -14,12 +14,12 @@
  
 # Procedures
 | Steps | Activities | Teaching tools | Time |  
-|-----|-----------|----------|-------------------| 
+|-----|-----|-----|-------------------| 
 |:one: Introduction |Play an audio file about "Two Travelers and a Bear".|5 min|
-|:heartpulse: 2. Development|Based on the information we heard, generate a picture collectively. [Creating images](https://www.bing.com/images/create?form=FLPGEN)|10 min|
+|:heartpulse: 2. Development|Basereating images](https://www.bing.com/images/create?form=FLPGEN)|10 min|
 ||Post the generated picture on [Padlet](https://padlet.com/).|5 min|
-||Ask the students why they created the picture and have them give a presentation about it.|10 min|
-||Present the pictures the teacher has prepared and study the text with the students.|10 min| [Script](http:///C:/Users/lkd01/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%9D%B4%EC%86%9D%EC%9A%B0%ED%99%94.png)
+||Ask thepresentation about it.|10 min|
+||Present the pictext with the students.|10 min| [Script](http:///C:/Users/lkd01/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%9D%B4%EC%86%9D%EC%9A%B0%ED%99%94.png)
 |Consolidation|The students solve a fill-in-the-blank quiz based on the photo materials. And share the answers together.|10 min|
 
 
