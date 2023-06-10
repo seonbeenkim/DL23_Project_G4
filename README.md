@@ -15,7 +15,7 @@
 # Procedures
 | Steps | Activities | Teaching tools | Time |  
 |-------|--------|---------|-----------| 
-|:book: Introduction |Watch a Youtube video of a coversation between a shopkeeper and a customer at a fruit store.|https://youtu.be/zTEztmWRa5c|4'|
+|📖 [Introcduction] |Watch a Youtube video of a coversation between a shopkeeper and a customer at a fruit store.|https://youtu.be/zTEztmWRa5c|4'|
 |Development| Learn new vocabulary.|Words list|5'|
 ||Play a flash game using new vocabulary.|Flash card game|10'|
 ||Practice the sentences that can be used at a store using gradio.|Gradio|10'|
