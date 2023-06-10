@@ -16,7 +16,7 @@
 | Steps | Activities | Teaching tools | Time |  
 |-----|-----|---------|-------| 
 |:one: Introduction |Watch a Youtube video of a coversation between a shopkeeper and a customer at a fruit store.|            |5 min|
-|:two: Development| Learn new vocabulary.            |10 min|
+|:two: Development| Learn new vocabulary. https://youtu.be/zTEztmWRa5c|10 min|
 ||Play a flash game using new vocabulary.|5 min|
 ||Practice the sentences that can be used at a store using gradio.|10 min|
 ||Record a role play between a shopkeeper and a customer.|                            |10 min|
