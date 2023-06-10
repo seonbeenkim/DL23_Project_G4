@@ -14,7 +14,7 @@
  
 # Procedures
 | Steps | Activities | Teaching tools | Time |  
-|-----|-----------|----------|
+|-----|-----------|----------|---------------------| 
 |:heart:1. Lesson plan quality|Play an audio file about "Two Travelers and a Bear".|5 min|
 |:heartpulse: 2. Digital application literacy|Based on the information we heard, generate a picture collectively. [Creating images](https://www.bing.com/images/create?form=FLPGEN)|10 min|
 |:yellow_heart: 3. Innovate language learing activity|Post the generated picture on [Padlet](https://padlet.com/).|5 min|
